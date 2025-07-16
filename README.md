@@ -1,6 +1,6 @@
 # Hi there 👋! I'm Tarcísio Lima Ferreira
 
-I'm a Computer Engineer from the Federal University of Alagoas (UFAL). I'm currently studying for a master's degree in Informatics at UFAL with an emphasis on Artificial Intelligence applied to health.
+I'm a Computer Engineer from the Federal University of Alagoas (UFAL).
 
 ### Connect with me
 
